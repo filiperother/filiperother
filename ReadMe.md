@@ -1,5 +1,5 @@
 About Me:
-System Information Student<br>Full Stack Developer
+<br>System Information Student<br>Full Stack Developer
 
 
 Socials:
